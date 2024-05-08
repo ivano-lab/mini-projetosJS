@@ -24,15 +24,16 @@ Este repositório contém uma coleção de mini-projetos simples em JavaScript. 
 
 10. **Números Primos**: Função para exibir os números primos.
 
-11. **Montador de Endereço**:
+11. **Montador de Endereço**: Este código define um objeto endereco com as propriedades rua, cidade e cep.
 
-12. **Encontre a igualdade**:
+12. **Encontre a igualdade**: Este código compara a igualdade restrita entre objetos e se ambos fazem referência ao mesmo espaço na memória. 
 
-13. **Montador de Postagem de blog**:
+13. **Montador de Postagem de blog**: Este código cria um objeto postagem com suas respectivas propriedades.
 
-14. **Faixa de Preço**:
 
-15. **Segurança Virtual**:
+
+14. **Faixa de Preço**: Este código cria arrays exibindo faixas de preços de produtos.
+
 
 
 
